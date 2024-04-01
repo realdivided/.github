@@ -1,3 +1,3 @@
 # About Me
 ## Skills
-  <img src="https://skillicons.dev/icons?i=java,golang,typescript,rust,maven,idea&perline=3"/>
+  <img src="https://skillicons.dev/icons?i=java,typescript,rust&perline=3"/>
