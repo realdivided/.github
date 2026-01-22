@@ -1,3 +1,4 @@
+Software engineer and tralsnlator.
 # About me
 ## Skills
   <img src="https://skillicons.dev/icons?i=java,gradle,typescript,vue,golang,rust&perline=3"/>
