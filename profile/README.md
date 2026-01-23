@@ -1,4 +1,4 @@
-Software engineer and tralsnlator.
+Software engineer and translator.
 # About me
 ## Skills
   <img src="https://skillicons.dev/icons?i=java,gradle,typescript,vue,golang,rust&perline=3"/>
